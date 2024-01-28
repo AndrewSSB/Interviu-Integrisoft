@@ -1,0 +1,6 @@
+@InterviuIntegrisoft_HostAddress = http://localhost:5028
+
+GET {{InterviuIntegrisoft_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
